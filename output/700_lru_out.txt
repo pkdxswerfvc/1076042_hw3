@@ -1,0 +1,709 @@
+Number of pages: 700
+Number of frames: 5
+Refernec string: 1 5 4 5 1 6 0 4 1 1 4 5 2 5 1 0 3 5 5 2 1 0 1 2 1 3 0 6 3 6 0 3 2 1 5 1 1 2 3 1 6 4 1 1 1 1 3 0 1 2 5 5 3 6 0 3 3 2 0 4 5 0 0 5 2 1 3 5 3 4 4 5 1 3 6 5 2 0 3 0 2 6 1 2 1 5 3 4 5 3 0 3 0 0 1 2 3 3 0 0 5 2 4 6 3 1 1 5 6 2 2 6 0 4 3 4 3 6 3 3 3 6 3 1 3 0 6 2 3 0 0 0 4 4 5 6 0 3 5 2 1 6 6 1 4 3 1 6 1 2 6 1 2 2 2 0 6 6 6 3 1 3 3 2 1 4 4 6 1 0 3 2 2 6 5 6 6 4 4 6 3 1 5 3 3 4 5 3 5 5 2 4 6 0 0 2 5 3 1 4 2 2 2 3 6 2 0 6 6 0 6 3 3 4 0 6 3 6 5 3 0 3 2 0 4 1 1 6 0 3 3 4 2 0 6 0 5 1 1 4 6 1 2 1 5 5 2 3 5 5 2 0 3 0 0 6 4 3 3 2 5 3 0 3 4 1 5 4 2 3 5 4 3 2 1 3 0 5 3 4 5 3 6 4 3 4 2 4 3 2 6 5 0 0 2 3 1 0 3 4 0 3 1 5 1 3 6 6 6 0 5 5 5 0 5 4 1 3 1 3 6 0 5 2 5 1 1 1 2 6 1 3 3 0 0 0 3 0 6 6 2 3 5 6 3 4 6 1 0 3 3 2 5 5 0 6 1 2 5 6 6 2 4 2 3 5 1 2 4 3 4 5 2 6 6 0 6 6 1 3 4 0 6 2 5 2 0 4 6 3 2 6 4 0 4 6 6 1 0 1 2 5 6 0 1 1 3 5 5 2 5 0 0 2 6 5 2 0 2 6 1 2 3 2 6 0 4 0 6 1 5 3 1 5 1 0 2 6 3 6 1 6 3 3 4 2 3 2 3 0 5 0 0 2 6 3 2 3 2 4 5 2 1 4 0 3 2 4 1 3 0 1 4 6 6 1 6 5 3 0 5 2 0 6 6 3 6 2 6 5 6 3 6 5 1 0 6 4 1 3 4 0 3 5 2 2 5 1 0 3 4 0 6 2 0 6 2 3 3 2 3 2 0 1 5 0 5 6 1 4 4 2 0 3 2 4 6 5 4 1 2 1 0 6 4 1 0 5 1 4 2 0 3 0 5 5 0 1 2 0 5 6 5 2 0 6 3 2 1 0 6 1 1 0 6 1 4 2 3 4 5 4 1 4 0 6 2 3 5 5 4 0 5 6 3 5 3 6 4 6 1 6 0 2 5 3 3 2 1 5 3 2 4 6 5 1 5 5 4 1 5 0 2 4 1 3 5 3 5 1 3 1 4 1 0 6 2 6 2 1 3 0 6 5 3 6 5 2 0 1 5 0 3 4 3 5 2 0 6 1 1 2 4 1 1 5 2 6 3 4 3 6 5 3 2 4 0 3 3 0 0 6 4 0 0 6 6 3 4 2 3 1 3 4 1 3 4 5 5 1 
+1     
+1 5    
+1 5 4   
+1 5 4 5  
+1 5 4 5 1 
+6 5 4 5 1 	occur, Now page fault: 1
+6 0 4 5 1 	occur, Now page fault: 2
+6 0 4 5 1 
+6 0 4 5 1 
+6 0 4 5 1 
+6 0 4 5 1 
+6 0 4 5 1 
+2 0 4 5 1 	occur, Now page fault: 3
+2 0 4 5 1 
+2 0 4 5 1 
+2 0 4 5 1 
+2 0 3 5 1 	occur, Now page fault: 4
+2 0 3 5 1 
+2 0 3 5 1 
+2 0 3 5 1 
+2 0 3 5 1 
+2 0 3 5 1 
+2 0 3 5 1 
+2 0 3 5 1 
+2 0 3 5 1 
+2 0 3 5 1 
+2 0 3 5 1 
+2 0 3 6 1 	occur, Now page fault: 5
+2 0 3 6 1 
+2 0 3 6 1 
+2 0 3 6 1 
+2 0 3 6 1 
+2 0 3 6 1 
+2 0 3 6 1 
+2 0 3 5 1 	occur, Now page fault: 6
+2 0 3 5 1 
+2 0 3 5 1 
+2 0 3 5 1 
+2 0 3 5 1 
+2 0 3 5 1 
+2 6 3 5 1 	occur, Now page fault: 7
+2 6 3 4 1 	occur, Now page fault: 8
+2 6 3 4 1 
+2 6 3 4 1 
+2 6 3 4 1 
+2 6 3 4 1 
+2 6 3 4 1 
+0 6 3 4 1 	occur, Now page fault: 9
+0 6 3 4 1 
+0 2 3 4 1 	occur, Now page fault: 10
+0 2 3 5 1 	occur, Now page fault: 11
+0 2 3 5 1 
+0 2 3 5 1 
+6 2 3 5 1 	occur, Now page fault: 12
+6 2 3 5 0 	occur, Now page fault: 13
+6 2 3 5 0 
+6 2 3 5 0 
+6 2 3 5 0 
+6 2 3 5 0 
+6 2 3 4 0 	occur, Now page fault: 14
+5 2 3 4 0 	occur, Now page fault: 15
+5 2 3 4 0 
+5 2 3 4 0 
+5 2 3 4 0 
+5 2 3 4 0 
+5 2 1 4 0 	occur, Now page fault: 16
+5 2 1 3 0 	occur, Now page fault: 17
+5 2 1 3 0 
+5 2 1 3 0 
+5 2 1 3 4 	occur, Now page fault: 18
+5 2 1 3 4 
+5 2 1 3 4 
+5 2 1 3 4 
+5 2 1 3 4 
+5 6 1 3 4 	occur, Now page fault: 19
+5 6 1 3 4 
+5 6 1 3 2 	occur, Now page fault: 20
+5 6 0 3 2 	occur, Now page fault: 21
+5 6 0 3 2 
+5 6 0 3 2 
+5 6 0 3 2 
+5 6 0 3 2 
+1 6 0 3 2 	occur, Now page fault: 22
+1 6 0 3 2 
+1 6 0 3 2 
+1 6 0 5 2 	occur, Now page fault: 23
+1 6 3 5 2 	occur, Now page fault: 24
+1 4 3 5 2 	occur, Now page fault: 25
+1 4 3 5 2 
+1 4 3 5 2 
+1 4 3 5 0 	occur, Now page fault: 26
+1 4 3 5 0 
+1 4 3 5 0 
+1 4 3 5 0 
+1 4 3 5 0 
+1 2 3 5 0 	occur, Now page fault: 27
+1 2 3 5 0 
+1 2 3 5 0 
+1 2 3 5 0 
+1 2 3 5 0 
+1 2 3 5 0 
+1 2 3 5 0 
+4 2 3 5 0 	occur, Now page fault: 28
+4 2 6 5 0 	occur, Now page fault: 29
+4 2 6 5 3 	occur, Now page fault: 30
+4 2 6 1 3 	occur, Now page fault: 31
+4 2 6 1 3 
+4 5 6 1 3 	occur, Now page fault: 32
+4 5 6 1 3 
+2 5 6 1 3 	occur, Now page fault: 33
+2 5 6 1 3 
+2 5 6 1 3 
+2 5 6 1 0 	occur, Now page fault: 34
+2 5 6 4 0 	occur, Now page fault: 35
+2 3 6 4 0 	occur, Now page fault: 36
+2 3 6 4 0 
+2 3 6 4 0 
+2 3 6 4 0 
+2 3 6 4 0 
+2 3 6 4 0 
+2 3 6 4 0 
+2 3 6 4 0 
+2 3 6 4 0 
+1 3 6 4 0 	occur, Now page fault: 37
+1 3 6 4 0 
+1 3 6 4 0 
+1 3 6 4 0 
+1 3 6 2 0 	occur, Now page fault: 38
+1 3 6 2 0 
+1 3 6 2 0 
+1 3 6 2 0 
+1 3 6 2 0 
+4 3 6 2 0 	occur, Now page fault: 39
+4 3 6 2 0 
+4 3 5 2 0 	occur, Now page fault: 40
+4 3 5 6 0 	occur, Now page fault: 41
+4 3 5 6 0 
+4 3 5 6 0 
+4 3 5 6 0 
+2 3 5 6 0 	occur, Now page fault: 42
+2 3 5 1 0 	occur, Now page fault: 43
+2 3 5 1 6 	occur, Now page fault: 44
+2 3 5 1 6 
+2 3 5 1 6 
+2 4 5 1 6 	occur, Now page fault: 45
+2 4 3 1 6 	occur, Now page fault: 46
+2 4 3 1 6 
+2 4 3 1 6 
+2 4 3 1 6 
+2 4 3 1 6 
+2 4 3 1 6 
+2 4 3 1 6 
+2 4 3 1 6 
+2 4 3 1 6 
+2 4 3 1 6 
+2 0 3 1 6 	occur, Now page fault: 47
+2 0 3 1 6 
+2 0 3 1 6 
+2 0 3 1 6 
+2 0 3 1 6 
+2 0 3 1 6 
+2 0 3 1 6 
+2 0 3 1 6 
+2 0 3 1 6 
+2 0 3 1 6 
+2 4 3 1 6 	occur, Now page fault: 48
+2 4 3 1 6 
+2 4 3 1 6 
+2 4 3 1 6 
+2 4 0 1 6 	occur, Now page fault: 49
+3 4 0 1 6 	occur, Now page fault: 50
+3 2 0 1 6 	occur, Now page fault: 51
+3 2 0 1 6 
+3 2 0 1 6 
+3 2 0 5 6 	occur, Now page fault: 52
+3 2 0 5 6 
+3 2 0 5 6 
+3 2 4 5 6 	occur, Now page fault: 53
+3 2 4 5 6 
+3 2 4 5 6 
+3 2 4 5 6 
+3 1 4 5 6 	occur, Now page fault: 54
+3 1 4 5 6 
+3 1 4 5 6 
+3 1 4 5 6 
+3 1 4 5 6 
+3 1 4 5 6 
+3 1 4 5 6 
+3 1 4 5 6 
+3 1 4 5 6 
+3 1 4 5 2 	occur, Now page fault: 55
+3 1 4 5 2 
+3 6 4 5 2 	occur, Now page fault: 56
+0 6 4 5 2 	occur, Now page fault: 57
+0 6 4 5 2 
+0 6 4 5 2 
+0 6 4 5 2 
+0 6 3 5 2 	occur, Now page fault: 58
+0 1 3 5 2 	occur, Now page fault: 59
+4 1 3 5 2 	occur, Now page fault: 60
+4 1 3 5 2 
+4 1 3 5 2 
+4 1 3 5 2 
+4 1 3 5 2 
+4 1 3 6 2 	occur, Now page fault: 61
+4 1 3 6 2 
+4 0 3 6 2 	occur, Now page fault: 62
+4 0 3 6 2 
+4 0 3 6 2 
+4 0 3 6 2 
+4 0 3 6 2 
+4 0 3 6 2 
+4 0 3 6 2 
+4 0 3 6 2 
+4 0 3 6 2 
+4 0 3 6 2 
+4 0 3 6 2 
+4 0 3 6 2 
+4 0 3 6 5 	occur, Now page fault: 63
+4 0 3 6 5 
+4 0 3 6 5 
+4 0 3 6 5 
+2 0 3 6 5 	occur, Now page fault: 64
+2 0 3 6 5 
+2 0 3 4 5 	occur, Now page fault: 65
+2 0 3 4 1 	occur, Now page fault: 66
+2 0 3 4 1 
+2 0 6 4 1 	occur, Now page fault: 67
+2 0 6 4 1 
+3 0 6 4 1 	occur, Now page fault: 68
+3 0 6 4 1 
+3 0 6 4 1 
+3 0 6 4 2 	occur, Now page fault: 69
+3 0 6 4 2 
+3 0 6 4 2 
+3 0 6 4 2 
+5 0 6 4 2 	occur, Now page fault: 70
+5 0 6 1 2 	occur, Now page fault: 71
+5 0 6 1 2 
+5 0 6 1 4 	occur, Now page fault: 72
+5 0 6 1 4 
+5 0 6 1 4 
+5 2 6 1 4 	occur, Now page fault: 73
+5 2 6 1 4 
+5 2 6 1 4 
+5 2 6 1 4 
+5 2 6 1 4 
+5 2 6 1 3 	occur, Now page fault: 74
+5 2 6 1 3 
+5 2 6 1 3 
+5 2 6 1 3 
+5 2 0 1 3 	occur, Now page fault: 75
+5 2 0 1 3 
+5 2 0 1 3 
+5 2 0 1 3 
+5 2 0 6 3 	occur, Now page fault: 76
+4 2 0 6 3 	occur, Now page fault: 77
+4 2 0 6 3 
+4 2 0 6 3 
+4 2 0 6 3 
+4 2 5 6 3 	occur, Now page fault: 78
+4 2 5 6 3 
+4 2 5 0 3 	occur, Now page fault: 79
+4 2 5 0 3 
+4 2 5 0 3 
+4 1 5 0 3 	occur, Now page fault: 80
+4 1 5 0 3 
+4 1 5 0 3 
+4 1 5 2 3 	occur, Now page fault: 81
+4 1 5 2 3 
+4 1 5 2 3 
+4 1 5 2 3 
+4 1 5 2 3 
+4 1 5 2 3 
+4 1 5 2 3 
+4 1 5 2 3 
+4 1 0 2 3 	occur, Now page fault: 82
+5 1 0 2 3 	occur, Now page fault: 83
+5 1 0 2 3 
+5 1 0 4 3 	occur, Now page fault: 84
+5 1 0 4 3 
+5 1 0 4 3 
+5 6 0 4 3 	occur, Now page fault: 85
+5 6 0 4 3 
+5 6 0 4 3 
+5 6 0 4 3 
+5 6 2 4 3 	occur, Now page fault: 86
+5 6 2 4 3 
+5 6 2 4 3 
+5 6 2 4 3 
+5 6 2 4 3 
+5 6 2 4 3 
+5 6 2 0 3 	occur, Now page fault: 87
+5 6 2 0 3 
+5 6 2 0 3 
+5 6 2 0 3 
+5 1 2 0 3 	occur, Now page fault: 88
+5 1 2 0 3 
+5 1 2 0 3 
+4 1 2 0 3 	occur, Now page fault: 89
+4 1 2 0 3 
+4 1 2 0 3 
+4 1 2 0 3 
+4 1 5 0 3 	occur, Now page fault: 90
+4 1 5 0 3 
+4 1 5 0 3 
+6 1 5 0 3 	occur, Now page fault: 91
+6 1 5 0 3 
+6 1 5 0 3 
+6 1 5 0 3 
+6 1 5 0 3 
+6 1 5 0 3 
+6 1 5 0 3 
+6 1 5 0 3 
+6 1 5 0 3 
+6 4 5 0 3 	occur, Now page fault: 92
+6 4 5 0 1 	occur, Now page fault: 93
+3 4 5 0 1 	occur, Now page fault: 94
+3 4 5 0 1 
+3 4 5 0 1 
+3 4 5 6 1 	occur, Now page fault: 95
+3 4 0 6 1 	occur, Now page fault: 96
+3 5 0 6 1 	occur, Now page fault: 97
+3 5 0 6 2 	occur, Now page fault: 98
+3 5 0 6 2 
+1 5 0 6 2 	occur, Now page fault: 99
+1 5 0 6 2 
+1 5 0 6 2 
+1 5 0 6 2 
+1 5 0 6 2 
+1 5 0 6 2 
+1 5 3 6 2 	occur, Now page fault: 100
+1 5 3 6 2 
+1 0 3 6 2 	occur, Now page fault: 101
+1 0 3 6 2 
+1 0 3 6 2 
+1 0 3 6 2 
+1 0 3 6 2 
+1 0 3 6 2 
+1 0 3 6 2 
+1 0 3 6 2 
+1 0 3 6 2 
+5 0 3 6 2 	occur, Now page fault: 102
+5 0 3 6 2 
+5 0 3 6 2 
+5 4 3 6 2 	occur, Now page fault: 103
+5 4 3 6 2 
+5 4 3 6 1 	occur, Now page fault: 104
+0 4 3 6 1 	occur, Now page fault: 105
+0 4 3 6 1 
+0 4 3 6 1 
+0 2 3 6 1 	occur, Now page fault: 106
+0 2 3 5 1 	occur, Now page fault: 107
+0 2 3 5 1 
+0 2 3 5 1 
+0 2 3 5 6 	occur, Now page fault: 108
+0 2 1 5 6 	occur, Now page fault: 109
+0 2 1 5 6 
+0 2 1 5 6 
+0 2 1 5 6 
+0 2 1 5 6 
+0 2 1 5 6 
+4 2 1 5 6 	occur, Now page fault: 110
+4 2 1 5 6 
+4 2 3 5 6 	occur, Now page fault: 111
+4 2 3 5 6 
+4 2 3 5 1 	occur, Now page fault: 112
+4 2 3 5 1 
+4 2 3 5 1 
+4 2 3 5 1 
+4 2 3 5 1 
+4 2 3 5 1 
+4 2 3 5 1 
+4 2 3 5 6 	occur, Now page fault: 113
+4 2 3 5 6 
+4 2 0 5 6 	occur, Now page fault: 114
+4 2 0 5 6 
+4 2 0 5 6 
+1 2 0 5 6 	occur, Now page fault: 115
+1 2 0 3 6 	occur, Now page fault: 116
+1 4 0 3 6 	occur, Now page fault: 117
+1 4 0 3 6 
+1 4 0 3 6 
+2 4 0 3 6 	occur, Now page fault: 118
+2 4 0 5 6 	occur, Now page fault: 119
+2 4 0 5 6 
+2 4 0 5 6 
+2 4 0 5 6 
+2 4 0 5 6 
+2 4 0 3 6 	occur, Now page fault: 120
+2 4 0 3 6 
+2 4 0 3 6 
+2 4 0 3 6 
+2 4 0 3 6 
+2 4 0 3 6 
+2 4 0 3 6 
+2 4 0 3 6 
+2 4 0 1 6 	occur, Now page fault: 121
+2 4 0 1 6 
+2 4 0 1 6 
+2 4 0 1 6 
+2 5 0 1 6 	occur, Now page fault: 122
+2 5 0 1 6 
+2 5 0 1 6 
+2 5 0 1 6 
+2 5 0 1 6 
+3 5 0 1 6 	occur, Now page fault: 123
+3 5 0 1 6 
+3 5 0 1 6 
+3 5 0 1 2 	occur, Now page fault: 124
+3 5 0 1 2 
+3 5 0 1 2 
+3 5 0 1 2 
+3 5 0 1 2 
+3 5 0 6 2 	occur, Now page fault: 125
+3 5 0 6 2 
+3 5 0 6 2 
+3 5 0 6 2 
+3 5 0 6 2 
+3 5 0 6 2 
+1 5 0 6 2 	occur, Now page fault: 126
+1 5 0 6 2 
+1 3 0 6 2 	occur, Now page fault: 127
+1 3 0 6 2 
+1 3 0 6 2 
+1 3 0 6 2 
+4 3 0 6 2 	occur, Now page fault: 128
+4 3 0 6 2 
+4 3 0 6 2 
+4 1 0 6 2 	occur, Now page fault: 129
+4 1 0 6 5 	occur, Now page fault: 130
+3 1 0 6 5 	occur, Now page fault: 131
+3 1 0 6 5 
+3 1 0 6 5 
+3 1 0 6 5 
+3 1 0 6 5 
+3 1 0 2 5 	occur, Now page fault: 132
+6 1 0 2 5 	occur, Now page fault: 133
+6 1 0 2 3 	occur, Now page fault: 134
+6 1 0 2 3 
+6 1 0 2 3 
+6 1 0 2 3 
+6 1 0 2 3 
+6 1 0 2 3 
+6 1 4 2 3 	occur, Now page fault: 135
+6 1 4 2 3 
+6 1 4 2 3 
+6 1 4 2 3 
+6 1 4 2 3 
+6 0 4 2 3 	occur, Now page fault: 136
+5 0 4 2 3 	occur, Now page fault: 137
+5 0 4 2 3 
+5 0 4 2 3 
+5 0 4 2 3 
+5 0 6 2 3 	occur, Now page fault: 138
+5 0 6 2 3 
+5 0 6 2 3 
+5 0 6 2 3 
+5 0 6 2 3 
+4 0 6 2 3 	occur, Now page fault: 139
+4 5 6 2 3 	occur, Now page fault: 140
+4 5 6 2 3 
+4 5 1 2 3 	occur, Now page fault: 141
+4 5 1 2 3 
+4 5 1 2 0 	occur, Now page fault: 142
+4 3 1 2 0 	occur, Now page fault: 143
+4 3 1 2 0 
+4 3 1 2 0 
+4 3 1 2 0 
+4 3 1 2 0 
+4 3 1 2 0 
+4 3 1 2 0 
+4 3 1 2 0 
+4 3 1 6 0 	occur, Now page fault: 144
+4 3 1 6 0 
+4 3 1 6 0 
+4 3 1 6 0 
+4 5 1 6 0 	occur, Now page fault: 145
+4 5 1 6 3 	occur, Now page fault: 146
+0 5 1 6 3 	occur, Now page fault: 147
+0 5 1 6 3 
+0 5 2 6 3 	occur, Now page fault: 148
+0 5 2 6 3 
+0 5 2 6 3 
+0 5 2 6 3 
+0 5 2 6 3 
+0 5 2 6 3 
+0 5 2 6 3 
+0 5 2 6 3 
+0 5 2 6 3 
+0 5 2 6 3 
+0 5 2 6 3 
+0 5 2 6 3 
+0 5 2 6 3 
+1 5 2 6 3 	occur, Now page fault: 149
+1 5 0 6 3 	occur, Now page fault: 150
+1 5 0 6 3 
+1 5 0 6 4 	occur, Now page fault: 151
+1 5 0 6 4 
+1 3 0 6 4 	occur, Now page fault: 152
+1 3 0 6 4 
+1 3 0 6 4 
+1 3 0 6 4 
+1 3 0 5 4 	occur, Now page fault: 153
+2 3 0 5 4 	occur, Now page fault: 154
+2 3 0 5 4 
+2 3 0 5 4 
+2 3 0 5 1 	occur, Now page fault: 155
+2 3 0 5 1 
+2 3 0 5 1 
+4 3 0 5 1 	occur, Now page fault: 156
+4 3 0 5 1 
+4 3 0 6 1 	occur, Now page fault: 157
+4 3 0 6 2 	occur, Now page fault: 158
+4 3 0 6 2 
+4 3 0 6 2 
+4 3 0 6 2 
+4 3 0 6 2 
+4 3 0 6 2 
+4 3 0 6 2 
+4 3 0 6 2 
+4 3 0 6 2 
+4 3 0 6 2 
+1 3 0 6 2 	occur, Now page fault: 159
+1 3 0 5 2 	occur, Now page fault: 160
+1 3 0 5 2 
+1 3 0 5 2 
+1 6 0 5 2 	occur, Now page fault: 161
+1 6 0 5 2 
+1 6 0 5 4 	occur, Now page fault: 162
+1 6 0 5 4 
+1 6 2 5 4 	occur, Now page fault: 163
+1 6 2 0 4 	occur, Now page fault: 164
+1 3 2 0 4 	occur, Now page fault: 165
+1 3 2 0 4 
+1 3 2 0 4 
+6 3 2 0 4 	occur, Now page fault: 166
+6 3 2 5 4 	occur, Now page fault: 167
+6 3 2 5 4 
+6 1 2 5 4 	occur, Now page fault: 168
+6 1 2 5 4 
+6 1 2 5 4 
+0 1 2 5 4 	occur, Now page fault: 169
+0 1 2 6 4 	occur, Now page fault: 170
+0 1 2 6 4 
+0 1 2 6 4 
+0 1 2 6 4 
+0 1 5 6 4 	occur, Now page fault: 171
+0 1 5 6 4 
+0 1 5 6 4 
+0 1 5 2 4 	occur, Now page fault: 172
+0 1 5 2 4 
+0 1 3 2 4 	occur, Now page fault: 173
+0 1 3 2 4 
+0 5 3 2 4 	occur, Now page fault: 174
+0 5 3 2 4 
+0 5 3 2 4 
+0 5 3 2 1 	occur, Now page fault: 175
+0 5 3 2 1 
+0 5 3 2 1 
+0 5 3 2 1 
+0 5 6 2 1 	occur, Now page fault: 176
+0 5 6 2 1 
+0 5 6 2 1 
+0 5 6 2 1 
+0 5 6 2 1 
+0 5 6 2 3 	occur, Now page fault: 177
+0 5 6 2 3 
+0 1 6 2 3 	occur, Now page fault: 178
+0 1 6 2 3 
+0 1 6 2 3 
+0 1 6 2 3 
+0 1 6 2 3 
+0 1 6 2 3 
+0 1 6 2 3 
+0 1 6 2 3 
+0 1 6 2 4 	occur, Now page fault: 179
+0 1 6 2 4 
+3 1 6 2 4 	occur, Now page fault: 180
+3 1 6 2 4 
+3 1 5 2 4 	occur, Now page fault: 181
+3 1 5 2 4 
+3 1 5 2 4 
+3 1 5 2 4 
+3 1 5 0 4 	occur, Now page fault: 182
+6 1 5 0 4 	occur, Now page fault: 183
+6 1 2 0 4 	occur, Now page fault: 184
+6 3 2 0 4 	occur, Now page fault: 185
+6 3 2 0 5 	occur, Now page fault: 186
+6 3 2 0 5 
+6 3 2 4 5 	occur, Now page fault: 187
+0 3 2 4 5 	occur, Now page fault: 188
+0 3 2 4 5 
+0 3 6 4 5 	occur, Now page fault: 189
+0 3 6 4 5 
+0 3 6 4 5 
+0 3 6 4 5 
+0 3 6 4 5 
+0 3 6 4 5 
+0 3 6 4 5 
+1 3 6 4 5 	occur, Now page fault: 190
+1 3 6 4 5 
+1 3 6 4 0 	occur, Now page fault: 191
+1 2 6 4 0 	occur, Now page fault: 192
+1 2 6 5 0 	occur, Now page fault: 193
+3 2 6 5 0 	occur, Now page fault: 194
+3 2 6 5 0 
+3 2 6 5 0 
+3 2 1 5 0 	occur, Now page fault: 195
+3 2 1 5 0 
+3 2 1 5 0 
+3 2 1 5 0 
+3 2 1 5 4 	occur, Now page fault: 196
+3 2 6 5 4 	occur, Now page fault: 197
+3 2 6 5 4 
+1 2 6 5 4 	occur, Now page fault: 198
+1 2 6 5 4 
+1 2 6 5 4 
+1 2 6 5 4 
+1 2 6 5 4 
+1 2 6 5 4 
+1 0 6 5 4 	occur, Now page fault: 199
+1 0 2 5 4 	occur, Now page fault: 200
+1 0 2 5 4 
+1 0 2 5 4 
+1 0 2 3 4 	occur, Now page fault: 201
+1 5 2 3 4 	occur, Now page fault: 202
+1 5 2 3 4 
+1 5 2 3 4 
+1 5 2 3 4 
+1 5 2 3 4 
+1 5 2 3 4 
+1 5 2 3 4 
+1 5 2 3 4 
+1 5 0 3 4 	occur, Now page fault: 203
+1 6 0 3 4 	occur, Now page fault: 204
+1 6 0 2 4 	occur, Now page fault: 205
+1 6 0 2 4 
+1 6 0 2 4 
+1 6 0 2 4 
+1 6 0 2 3 	occur, Now page fault: 206
+1 6 0 2 3 
+1 6 0 2 3 
+1 6 0 5 3 	occur, Now page fault: 207
+1 6 0 5 3 
+1 6 0 5 3 
+1 6 0 5 3 
+2 6 0 5 3 	occur, Now page fault: 208
+2 6 0 5 3 
+2 6 0 5 1 	occur, Now page fault: 209
+2 6 0 5 1 
+2 6 0 5 1 
+2 3 0 5 1 	occur, Now page fault: 210
+4 3 0 5 1 	occur, Now page fault: 211
+4 3 0 5 1 
+4 3 0 5 1 
+4 3 0 5 2 	occur, Now page fault: 212
+4 3 0 5 2 
+6 3 0 5 2 	occur, Now page fault: 213
+6 1 0 5 2 	occur, Now page fault: 214
+6 1 0 5 2 
+6 1 0 5 2 
+6 1 0 4 2 	occur, Now page fault: 215
+6 1 0 4 2 
+6 1 0 4 2 
+6 1 5 4 2 	occur, Now page fault: 216
+6 1 5 4 2 
+6 1 5 4 2 
+6 1 5 3 2 	occur, Now page fault: 217
+6 4 5 3 2 	occur, Now page fault: 218
+6 4 5 3 2 
+6 4 5 3 2 
+6 4 5 3 2 
+6 4 5 3 2 
+6 4 5 3 2 
+6 4 5 3 2 
+0 4 5 3 2 	occur, Now page fault: 219
+0 4 5 3 2 
+0 4 5 3 2 
+0 4 5 3 2 
+0 4 5 3 2 
+0 4 6 3 2 	occur, Now page fault: 220
+0 4 6 3 2 
+0 4 6 3 2 
+0 4 6 3 2 
+0 4 6 3 2 
+0 4 6 3 2 
+0 4 6 3 2 
+0 4 6 3 2 
+0 4 6 3 2 
+0 4 6 3 2 
+1 4 6 3 2 	occur, Now page fault: 221
+1 4 6 3 2 
+1 4 6 3 2 
+1 4 6 3 2 
+1 4 6 3 2 
+1 4 6 3 2 
+1 4 5 3 2 	occur, Now page fault: 222
+1 4 5 3 2 
+1 4 5 3 2 
+
+Total page fault: 222
+Hit: 478   Hit ratio: 0.68
+Miss: 222   Miss ratio: 0.32
+
+Execution time: 0.63 sec
