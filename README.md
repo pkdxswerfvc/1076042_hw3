@@ -9,9 +9,9 @@
 	2. 使用計數變數(Counter)去儲存每個在頁框內的分頁使用後閒置的時間
 
 ## FUNCTION
-void read_file(char filename[]); // 讀檔  
-class page_table {};  // 紀錄 page  
-int main(); // 執行 LRU 替換  
+void read_file(char filename[ ]); // 讀檔  
+class page_table { };  // 紀錄 page  
+int main( ); // 執行 LRU 替換  
 
 ## INPUT FILE
 輸入檔包含 `page 數量` 及 `page`。
